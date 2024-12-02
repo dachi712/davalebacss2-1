@@ -1,5 +1,6 @@
 #div1 {
     margin-top: 12px;
+
 }
 
 #nextMove {
@@ -10,6 +11,8 @@
 span {
     display: inline-block;
     padding-right: 20px;
+    font-size: 18px;
+    color: #323232;
 
 }
 
@@ -23,6 +26,7 @@ span {
     padding-right: 16px;
     padding-top: 8px;
     padding-bottom: 8px;
+    font-size: 14px;
 }
 
 #div2 {
@@ -57,6 +61,7 @@ h1 {
     background-color: #5C3BAE;
     color: #FFFFFF;
     width:  204px;
+    font-size: 18px;
 }
 #div3{
     display: inline;
@@ -65,4 +70,18 @@ h1 {
     padding-left: 24px;
     vertical-align: middle;
 
+}
+#watchVideo{
+    margin-left: 12px;
+    font-size: 18px;
+    vertical-align: middle;
+}
+#div4{
+    margin-left: 661px;
+}
+#div5{
+    width: 1020px;
+}
+#cards{
+    max-width: 100%;
 }
