@@ -1,0 +1,68 @@
+#div1 {
+    margin-top: 12px;
+}
+
+#nextMove {
+    margin-right: 179px;
+    margin-left: 80px;
+}
+
+span {
+    display: inline-block;
+    padding-right: 20px;
+
+}
+
+#contactUs {
+    margin-left: 195px;
+    background-color: #E9D7FE;
+    border-radius: 8px;
+    border: 1px solid #AC00FF ;
+    color: #AC00FF;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+#div2 {
+    margin-top: 76px;
+    max-width: 841px;
+    max-height: 314px;
+    margin-left: 214px;
+    
+
+}
+
+h1 {
+    font-size: 64px;
+    color: #323232;
+    width: 720px;
+    height: 148px;
+
+
+}
+#moMoney{
+    font-size: 24px;
+    color: #323232;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+#joinNow{
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    border-radius: 8px;
+    background-color: #5C3BAE;
+    color: #FFFFFF;
+    width:  204px;
+}
+#div3{
+    display: inline;
+}
+#groupSvg{
+    padding-left: 24px;
+    vertical-align: middle;
+
+}
