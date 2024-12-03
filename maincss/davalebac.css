@@ -64,7 +64,8 @@ h1 {
     font-size: 18px;
 }
 #div3{
-    display: inline;
+    margin-left: 214px;
+
 }
 #groupSvg{
     padding-left: 24px;
@@ -76,12 +77,11 @@ h1 {
     font-size: 18px;
     vertical-align: middle;
 }
-#div4{
-    margin-left: 661px;
-}
-#div5{
-    width: 1020px;
-}
+
 #cards{
-    max-width: 100%;
+    max-width: 635px;
+
+}
+#div4{
+text-align: right;
 }
